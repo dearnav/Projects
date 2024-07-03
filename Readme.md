@@ -1,1 +1,1 @@
-This repo is created for the projects
+This repo is created for the projects.
